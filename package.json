@@ -113,7 +113,7 @@
     "babel-preset-react": "^6.5.0",
     "babel-preset-stage-1": "^6.5.0",
     "bluebird": "^3.0.5",
-    "codecov": "^1.0.1",
+    "codecov": "^3.8.3",
     "codemirror": "^5.18.0",
     "cross-env": "^1.0.7",
     "css-loader": "^0.23.0",
@@ -122,11 +122,11 @@
     "file-loader": "^0.8.5",
     "flow-bin": "^0.39.0",
     "fs-extra": "^0.30.0",
-    "gh-pages": "^0.11.0",
+    "gh-pages": "^6.3.0",
     "html-webpack-plugin": "^2.16.1",
     "immutable": "^3.7.5",
     "jest": "^18.1.0",
-    "postcss": "^5.0.14",
+    "postcss": "^8.5.23",
     "postcss-cli": "^2.3.3",
     "postcss-loader": "^0.9.1",
     "raf": "^3.3.0",
@@ -144,7 +144,7 @@
     "watch": "^0.18.0",
     "webpack": "^1.9.6",
     "webpack-dashboard": "0.0.1",
-    "webpack-dev-server": "^1.14.0"
+    "webpack-dev-server": "^5.2.6"
   },
   "dependencies": {
     "babel-runtime": "^6.11.6",
